@@ -124,16 +124,15 @@
 //     case 3:   { print('tingkatkan volume TV!'); break; }
 //     case 4:   { print('matikan suara TV!'); break; }
 //     default:  { print('Tidak terjadi apa-apa'); }}
-
 // }
 
-void main(){
-  var flag = 1;
-  while(flag < 10) { 
-    print ("iterasi ke"+ flag.toString()); 
-    flag++;
-  }
-}
+// void main(){
+//   var flag = 1;
+//   while(flag < 10) { 
+//     print ("iterasi ke"+ flag.toString()); 
+//     flag++;
+//   }
+// }
 
 // void main() {
 //   var deret = 5;
